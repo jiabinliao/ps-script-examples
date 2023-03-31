@@ -1,4 +1,4 @@
 # ps-script-examples
 Repo for PowerShell Scripts
 
-Examples for learning and notes.
+1.RegAppInParallel.ps1: do something in parallel.In this example, register app profile in parallel.
